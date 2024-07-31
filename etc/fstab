@@ -1,0 +1,3 @@
+/dev/sda1              /boot           auto            defaults        1 2
+UUID=abda8234-1515-487c-b9eb-ef0c576d630b      /               auto            defaults                0 1
+10.64.1.6:/media/array/global/palmer@dabbelt.com       /media/global/palmer@dabbelt.com        nfs     defaults        0 1
