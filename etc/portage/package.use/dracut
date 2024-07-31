@@ -1,0 +1,10 @@
+# dracut needs static tools
+sys-fs/cryptsetup static -udev
+dev-libs/json-c static-libs
+dev-libs/popt static-libs
+sys-apps/util-linux static-libs
+app-crypt/argon2 static-libs
+dev-libs/openssl static-libs
+sys-fs/lvm2 static-libs static -udev
+
+sys-fs/btrfs-progs static static-libs
