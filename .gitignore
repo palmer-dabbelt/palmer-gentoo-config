@@ -17,7 +17,6 @@
 /etc/dispatch-conf.conf
 /etc/dmtab
 /etc/dracut.conf
-/etc/dracut.conf.d/
 /etc/e2fsck.conf
 /etc/e2scrub.conf
 /etc/elogind/
