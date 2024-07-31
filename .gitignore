@@ -29,7 +29,6 @@
 /etc/exports.d/
 /etc/filesystems
 /etc/fonts/
-/etc/fstab
 /etc/gai.conf
 /etc/gentoo-release
 /etc/group
