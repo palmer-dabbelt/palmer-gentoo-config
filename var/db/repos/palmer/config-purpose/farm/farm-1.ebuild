@@ -14,5 +14,7 @@ KEYWORDS="amd64"
 DEPEND=""
 RDEPEND="${DEPEND}
 	kde-apps/kdenlive
-	x11-misc/x11vnc"
+	x11-misc/x11vnc
+	xfce-base/xfce4-meta
+"
 BDEPEND=""
