@@ -125,7 +125,6 @@
 /sys/
 /tmp/
 /usr/
-/var/
 /.viminfo
 /.lesshst
 *.swp
