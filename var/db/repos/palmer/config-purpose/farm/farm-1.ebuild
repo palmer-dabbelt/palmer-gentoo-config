@@ -9,8 +9,10 @@ SRC_URI=""
 
 LICENSE=""
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS="amd64"
 
 DEPEND=""
-RDEPEND="${DEPEND}"
+RDEPEND="${DEPEND}
+	kde-apps/kdenlive
+	x11-misc/x11vnc"
 BDEPEND=""

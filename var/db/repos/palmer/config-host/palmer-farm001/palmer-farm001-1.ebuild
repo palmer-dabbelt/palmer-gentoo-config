@@ -13,6 +13,6 @@ KEYWORDS="amd64"
 
 DEPEND=""
 RDEPEND="${DEPEND}
-	palmer-platform/elitedesk
-	palmer-use/farm"
+	config-platform/elitedesk
+	config-purpose/farm"
 BDEPEND=""
