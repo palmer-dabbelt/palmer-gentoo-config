@@ -11,11 +11,12 @@ LICENSE=""
 SLOT="0"
 KEYWORDS="amd64"
 
-DEPEND=""
-RDEPEND="${DEPEND}
+DEPEND="
 	config-purpose/base
 	kde-apps/kdenlive
 	x11-misc/x11vnc
+	x11-misc/xvfb-run
 	xfce-base/xfce4-meta
 "
+RDEPEND="${DEPEND}"
 BDEPEND=""
