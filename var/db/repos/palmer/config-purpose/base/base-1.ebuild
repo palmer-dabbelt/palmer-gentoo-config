@@ -14,8 +14,10 @@ KEYWORDS="amd64"
 DEPEND="
 	app-admin/sysklogd
 	app-benchmarks/i7z
+	app-editors/nano
 	app-editors/vim
 	app-misc/tmux
+	dev-vcs/git
 	net-fs/nfs-utils
 	net-misc/ntp
 	sys-fs/btrfs-progs

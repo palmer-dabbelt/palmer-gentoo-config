@@ -11,8 +11,9 @@ LICENSE=""
 SLOT="0"
 KEYWORDS="amd64"
 
-DEPEND=""
-RDEPEND="${DEPEND}
+DEPEND="
 	config-platform/elitedesk
-	config-purpose/farm"
+	config-purpose/farm
+"
+RDEPEND="${DEPEND}"
 BDEPEND=""
