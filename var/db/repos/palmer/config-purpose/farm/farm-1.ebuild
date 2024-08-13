@@ -14,6 +14,7 @@ KEYWORDS="amd64"
 DEPEND="
 	config-purpose/base
 	kde-apps/kdenlive
+	media-sound/pulseaudio
 	x11-misc/x11vnc
 	x11-misc/xvfb-run
 	xfce-base/xfce4-meta
