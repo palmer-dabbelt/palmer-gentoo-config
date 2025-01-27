@@ -15,6 +15,7 @@ DEPEND="
 	config-purpose/base
 	kde-apps/kdenlive
 	media-sound/pulseaudio
+	sys-cluster/slurm
 	x11-misc/x11vnc
 	x11-misc/xvfb-run
 	xfce-base/xfce4-meta
