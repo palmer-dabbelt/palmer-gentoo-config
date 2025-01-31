@@ -37,7 +37,6 @@
 /etc/gshadow-
 /etc/gtk-3.0/
 /etc/host.conf
-/etc/hosts
 /etc/idmapd.conf
 /etc/init.d/
 /etc/inittab
