@@ -13,6 +13,7 @@ KEYWORDS="amd64"
 
 DEPEND="
 	config-purpose/base
+	dev-util/claude-code
 "
 RDEPEND="${DEPEND}"
 BDEPEND=""
