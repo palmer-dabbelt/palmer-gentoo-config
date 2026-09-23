@@ -13,7 +13,6 @@ KEYWORDS="amd64"
 
 DEPEND="
 	config-purpose/base
-	media-sound/pulseaudio
 "
 RDEPEND="${DEPEND}"
 BDEPEND=""
