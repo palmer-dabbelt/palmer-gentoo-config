@@ -13,6 +13,7 @@ KEYWORDS="amd64"
 
 DEPEND="
 	app-admin/sysklogd
+	app-admin/sudo
 	app-benchmarks/i7z
 	app-editors/nano
 	app-editors/vim
