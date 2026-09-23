@@ -11,6 +11,6 @@ LICENSE=""
 SLOT="0"
 KEYWORDS="amd64"
 
-DEPEND=""
+DEPEND="sys-fs/cryptsetup"
 RDEPEND="${DEPEND}"
 BDEPEND=""
