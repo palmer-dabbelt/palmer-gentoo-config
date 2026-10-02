@@ -12,8 +12,10 @@ SLOT="0"
 KEYWORDS="amd64"
 
 DEPEND="
+	app-emulation/qemu
 	config-purpose/base
 	dev-util/claude-code
+	net-misc/keychain
 "
 RDEPEND="${DEPEND}"
 BDEPEND=""
