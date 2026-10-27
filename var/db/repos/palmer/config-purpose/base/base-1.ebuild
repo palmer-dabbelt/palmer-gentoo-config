@@ -20,7 +20,7 @@ DEPEND="
 	app-misc/tmux
 	dev-vcs/git
 	net-fs/nfs-utils
-	net-misc/ntp
+	net-misc/chrony
 	sys-fs/btrfs-progs
 	sys-fs/dosfstools
 	sys-kernel/gentoo-kernel
