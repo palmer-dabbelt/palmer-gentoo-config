@@ -15,6 +15,7 @@ DEPEND="
 	app-emulation/qemu
 	config-purpose/base
 	dev-util/claude-code
+	dev-util/opencode
 	net-misc/keychain
 "
 RDEPEND="${DEPEND}"
