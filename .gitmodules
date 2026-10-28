@@ -1,6 +1,3 @@
 [submodule "var/db/repos/gentoo"]
 	path = var/db/repos/gentoo
 	url = https://github.com/gentoo/gentoo.git
-[submodule "var/db/repos/opencode-overlay"]
-	path = var/db/repos/opencode-overlay
-	url = https://github.com/mattwollf/opencode-overlay
